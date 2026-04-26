@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **abdurezaktesfaye998@gmail.com**
 
